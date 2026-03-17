@@ -24,7 +24,7 @@ The aim of this project is to create an interactive and engaging quiz experience
 
 ## Live Demo
 You can access the project here:  
-https://bilge7.github.io/wie-quiz/
+https://bilge77.github.io/wie-quiz/
 
 ## Notes
 This project was developed as part of an event organization and serves as a practical example of front-end development.
